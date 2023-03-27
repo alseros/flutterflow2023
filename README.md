@@ -12,3 +12,6 @@ Aquí se pondrá los links de las practicas de flutterflow
  
  # Act 5 Navigation Bar en flutter flow.
  link --> (https://app.flutterflow.io/preview/act-5-navigation-b-krov0z?HomePage)
+ 
+ # Act 6 TabBar en flutter flow.
+ link --> (https://app.flutterflow.io/share/act6-tab-bar-i38iaf)
